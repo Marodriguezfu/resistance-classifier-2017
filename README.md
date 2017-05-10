@@ -27,7 +27,7 @@ This project proposed a compact device that could **feed, measure, and sort resi
 ---
 
 ## 📂 Repository Structure
-
+```
 resistance-classifier-2017/
 │
 ├── src/ # Arduino source code
@@ -36,15 +36,15 @@ resistance-classifier-2017/
 ├── figures/ # Images, diagrams, and results
 ├── README.md # Project documentation
 └── .gitignore
+```
 
 ## 📑 Documentation
 
 The full documentation is provided in the `docs/` folder:
-- **Project Proposal** – initial justification, design, and planning:contentReference[oaicite:0]{index=0}.  
-- **Guides 1–3** – experimental steps with Arduino ohmmeter, CAD design, and stepper motor:contentReference[oaicite:1]{index=1}:contentReference[oaicite:2]{index=2}:contentReference[oaicite:3]{index=3}.  
-- **Reports 1–3** – results of each stage (measurement ranges, CAD design, motor control):contentReference[oaicite:4]{index=4}:contentReference[oaicite:5]{index=5}:contentReference[oaicite:6]{index=6}.  
-- **Final Report** – complete description of the device, final assembly, and conclusions:contentReference[oaicite:7]{index=7}.  
-
+- **Project Proposal** – initial justification, design, and planning.  
+- **Guides 1–3** – experimental steps with Arduino ohmmeter, CAD design, and stepper.  
+- **Reports 1–3** – results of each stage (measurement ranges, CAD design, motor control).  
+- **Final Report** – complete description of the device, final assembly, and conclusions.
 ---
 
 ## ⚙️ Hardware & Software Requirements
@@ -88,8 +88,3 @@ The full documentation is provided in the `docs/` folder:
 
 Universidad Nacional de Colombia, 2017.
 
----
-
-## 📜 License
-
-This project is released under the **MIT License**. See the [LICENSE](LICENSE) file for details.
